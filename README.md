@@ -1,3 +1,3 @@
 # MLB Scoreboard Solution
 
-My solution for ESPN Major League Baseball Test.
+Open JS console to see results! Must be run on local server or remote server do to use of jQuery AJAX methods.
