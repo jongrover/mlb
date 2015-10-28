@@ -14,9 +14,9 @@ $(function(){
                   competitor[1].team.location+
                   " "+competitor[1].team.name+
                   "\n"+
-                  " "+competitor[0].score+
+                  competitor[0].score+
                   " - "+
-                  " "+competitor[1].score);
+                  competitor[1].score);
     });
   });
 });
